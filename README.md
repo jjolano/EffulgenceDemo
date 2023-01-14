@@ -1,8 +1,7 @@
-# EffulgenceDemo
-A demo of my jailbreak detection library, Effulgence.
+# Effulgence
 
-Features a reliable jailbreak check which essentially cannot be bypassed.
+An iOS app to test jailbreak detection libraries.
 
-Framework source code not released for obvious reasons ;)
+### Bastille
 
-**Challenge**: Bypass me!
+This is my own jailbreak detection library. Challenge: Try and bypass this without disabling the function.
